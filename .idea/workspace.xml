@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db98658-8271-430e-ab7d-99bbe09a9fcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/domain/Vo/UserVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/domain/dto/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/factory/DaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/factory/ServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/util/BeanHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/util/DataUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/util/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/util/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/soft/util/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/niit/soft/dao/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/niit/soft/service/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/domain/Vo/UserVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/domain/dto/UserDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/factory/DaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/factory/ServiceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/util/BeanHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/util/DataUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/util/DbUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/util/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/niit/soft/util/ResultCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/niit/soft/dao/UserDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/niit/soft/service/UserServiceTest.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_jar" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UQfivOfihF2zCKoByYjTkAbrwu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Blod" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30837563" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.niit.soft.service" />
+      <recent name="com.niit.soft.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.niit.soft.util" />
+      <recent name="com.niit.soft.entity" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.UserServiceTest.getHotUsers">
+    <configuration name="UserDaoTest.findUserByMobile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.soft.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.niit.soft.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.niit.soft.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="findUserByMobile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.selectHotUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.soft.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.niit.soft.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.niit.soft.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="selectHotUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.soft.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.niit.soft.service" />
+      <option name="MAIN_CLASS_NAME" value="com.niit.soft.service.UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.getHotUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.soft.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.niit.soft.service" />
+      <option name="MAIN_CLASS_NAME" value="com.niit.soft.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="getHotUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.signIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.soft.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.niit.soft.service" />
+      <option name="MAIN_CLASS_NAME" value="com.niit.soft.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="signIn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.getHotUsers" />
+        <item itemvalue="JUnit.UserDaoTest.selectHotUsers" />
+        <item itemvalue="JUnit.UserServiceTest.signIn" />
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="JUnit.UserDaoTest.findUserByMobile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db98658-8271-430e-ab7d-99bbe09a9fcb" name="Default Changelist" comment="" />
+      <created>1575293869185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575293869185</updated>
+      <workItem from="1575293872525" duration="5750000" />
+      <workItem from="1575330700925" duration="3900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
